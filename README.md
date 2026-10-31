@@ -125,11 +125,22 @@ Production systems delivered for clients and partners. These are outcomes as rep
 
 Engagements follow the **[J. SERVO AI Blueprint™](https://jservo.com/ai-transformation-blueprint/)**, a 90-day path from assessment to measurable return.
 
-```mermaid
-flowchart LR
-    A[Discover] --> B[Design] --> C[Build] --> D[Deploy] --> E[Optimize]
-    E -. continuous improvement .-> C
-```
+<table>
+  <tr>
+    <th width="20%">01 · Discover</th>
+    <th width="20%">02 · Design</th>
+    <th width="20%">03 · Build</th>
+    <th width="20%">04 · Deploy</th>
+    <th width="20%">05 · Optimize</th>
+  </tr>
+  <tr>
+    <td valign="top"><sub>WEEK 1</sub><br>Assessment, top opportunities, KPIs and ROI case</td>
+    <td valign="top"><sub>WEEKS 2–3</sub><br>Architecture, UX, integrations and success metrics</td>
+    <td valign="top"><sub>WEEKS 4–8</sub><br>Agile sprints, weekly reviews and continuous testing</td>
+    <td valign="top"><sub>WEEKS 9–10</sub><br>Phased rollout, training and go-live support</td>
+    <td valign="top"><sub>ONGOING</sub><br>Usage analytics, iteration and expansion</td>
+  </tr>
+</table>
 
 Every solution is held to five standards: **Credibility, Usability, Visibility, Sellability and Scalability.**
 We work in three models, Starter, Growth and Transformation, each with fixed deliverables and transparent pricing.
