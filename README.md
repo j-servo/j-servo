@@ -111,7 +111,7 @@ Production systems delivered for clients and partners. These are outcomes as rep
 
 ## Products
 
-| | |
+| Product | Description |
 | :--- | :--- |
 | **[Dragonfly AI Architect](https://jservo.com/dragonfly-ai-architect/)** | A visual, node-based environment for designing, connecting and deploying LLM agents into live workflows, with built-in ROI modelling |
 | **[AI ROI Calculator](https://jservo.com/ai-roi-calculator/)** | Risk-adjusted projections of savings, investment, payback and three-year ROI |
