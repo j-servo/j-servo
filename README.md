@@ -25,42 +25,48 @@ workflows, ERP and CRM platforms, and the governance needed to run them safely.
 We start from the business, not the model. Every engagement begins with an assessment, is measured
 against agreed KPIs, and ships as infrastructure our clients own, with no vendor lock-in.
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## What we do
 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <img src="assets/icons/agentic-ai.svg" width="44" height="44" alt="">
       <h4>Agentic AI</h4>
       Multi-agent systems, Web2Agent services and conversational agents across WhatsApp, web and voice, grounded in your own data.
     </td>
     <td width="33%" valign="top">
+      <img src="assets/icons/automation.svg" width="44" height="44" alt="">
       <h4>Intelligent Automation</h4>
       Autonomous workflows for data entry, compliance checks, document handling, customer service and forecasting.
     </td>
     <td width="33%" valign="top">
+      <img src="assets/icons/enterprise.svg" width="44" height="44" alt="">
       <h4>Enterprise Systems</h4>
       Custom ERP, CRM, HRMS, QMS and DMS platforms that bring finance, HR, sales, projects, POS and QA/QC under one roof.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <img src="assets/icons/private-ai.svg" width="44" height="44" alt="">
       <h4>Private & On-Prem AI</h4>
       Air-gapped, zero-retention RAG and local inference for regulated industries where data cannot leave the building.
     </td>
     <td width="33%" valign="top">
+      <img src="assets/icons/governance.svg" width="44" height="44" alt="">
       <h4>Governance & Compliance</h4>
       Company policies (HSE, QA/QC, SOPs), operating templates and document management: the foundation AI runs on.
     </td>
     <td width="33%" valign="top">
+      <img src="assets/icons/transformation.svg" width="44" height="44" alt="">
       <h4>Transformation & Project Controls</h4>
       Process redesign, change management and PMS-driven cost, schedule, risk and quality control.
     </td>
   </tr>
 </table>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## Open source
 
@@ -89,11 +95,17 @@ against agreed KPIs, and ships as infrastructure our clients own, with no vendor
   </tr>
 </table>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## Selected work
 
 Production systems delivered for clients and partners. These are outcomes as reported in our [case studies](https://jservo.com/case-studies/).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img alt="70%+ support queries automated · 4.5x faster legal review · 250K+ B2B leads graded · 99.99% agent uptime" src="assets/stats-dark.svg" width="100%">
+</picture>
 
 | Engagement | Domain | Outcome |
 | :--- | :--- | :--- |
@@ -107,7 +119,7 @@ Production systems delivered for clients and partners. These are outcomes as rep
 
 <sub>Clients include <a href="https://bluemarinelife.qa">Blue Marine Life</a>, <a href="https://axleeng.net">Axle Engineering</a> and <a href="https://xyz-survey.com">XYZ Survey</a>.</sub>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## Products
 
@@ -119,7 +131,7 @@ Production systems delivered for clients and partners. These are outcomes as rep
 | **[Image & Color Studio](https://jservo.com/image-color-studio/)** | In-browser asset conversion and palette extraction powered by vision models |
 | **[AI Tool Finder](https://jservo.com/ai-tool-finder/)** · **[AI Comparison](https://jservo.com/ai-comparison-tool/)** · **[Prompt Generator](https://jservo.com/ai-prompt-generator/)** | Free tools for teams evaluating and adopting AI |
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## How we work
 
@@ -145,7 +157,7 @@ Engagements follow the **[J. SERVO AI Blueprint™](https://jservo.com/ai-transf
 Every solution is held to five standards: **Credibility, Usability, Visibility, Sellability and Scalability.**
 We work in three models, Starter, Growth and Transformation, each with fixed deliverables and transparent pricing.
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## Technology
 
@@ -167,7 +179,7 @@ We work in three models, Starter, Growth and Transformation, each with fixed del
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API">
 </p>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## Work with us
 
