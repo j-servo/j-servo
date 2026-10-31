@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7FAFA"/><stop offset="1" stop-color="#E6F2F1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0B1F24" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#0A9181" stop-opacity="0.28"/><stop offset="1" stop-color="#0A9181" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <g fill="none" stroke="#0A9181" stroke-opacity="0.55" stroke-width="1.5">
+    <path d="M900 90 L1010 150 L1130 110 L1200 200 L1060 240 L1010 150"/>
+    <path d="M1060 240 L940 220 L900 90"/>
+  </g>
+  <g fill="#0A9181">
+    <circle cx="900" cy="90" r="5"/><circle cx="1010" cy="150" r="7"/><circle cx="1130" cy="110" r="5"/>
+    <circle cx="1200" cy="200" r="5"/><circle cx="1060" cy="240" r="5"/><circle cx="940" cy="220" r="4"/>
+  </g>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="80" y="92" width="36" height="4" fill="#0A9181"/>
+    <text x="80" y="160" font-size="64" font-weight="700" letter-spacing="2" fill="#0B1F24">J. SERVO</text>
+    <text x="80" y="204" font-size="24" font-weight="500" fill="#0B1F24" fill-opacity="0.92">Your AI Partner in Business</text>
+    <text x="80" y="244" font-size="16" letter-spacing="1.5" fill="#4A6066">AGENTIC AI  ·  AUTOMATION  ·  ERP  ·  DIGITAL TRANSFORMATION</text>
+  </g>
+</svg>
