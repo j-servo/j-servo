@@ -69,12 +69,12 @@ against agreed KPIs, and ships as infrastructure our clients own, with no vendor
 
 <p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""></p>
 
-## Open source
+## Showcase
 
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3><a href="https://github.com/j-servo/diwan">Diwan</a></h3>
+      <h3>Diwan</h3>
       <p><b>Houses of knowledge for your AI agents.</b> Diwan turns every Claude Code session on your machine into a scholar in a live 3D diorama of history's great houses of learning: the House of Wisdom in Abbasid Baghdad and the House of Life in Ptolemaic Egypt.</p>
       <ul>
         <li><b>Observe:</b> see what each agent is reading, writing, running or searching, in real time</li>
@@ -89,8 +89,8 @@ against agreed KPIs, and ships as infrastructure our clients own, with no vendor
       </p>
     </td>
     <td width="38%" valign="middle">
-      <a href="https://github.com/j-servo/diwan">
-        <img src="https://raw.githubusercontent.com/j-servo/diwan/main/docs/superpowers/m1/img/frame-1-golden-wide.jpg" alt="Diwan: the House of Wisdom" width="100%">
+      <a href="https://jservo.com/contact-us/">
+        <img src="https://raw.githubusercontent.com/j-servo/.github/main/profile/assets/diwan/frame-1-golden-wide.jpg" alt="Diwan: the House of Wisdom" width="100%">
       </a>
     </td>
   </tr>
